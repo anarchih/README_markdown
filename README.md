@@ -26,12 +26,20 @@ import math
 pi = math.pi
 print(pi)
 ```
-hello
 
-*italic*
-**bold**
-~~OAO~~
-world
+*italic* </br>
+**bold** </br>
+~~OAO~~  </br>
+
 [Link](https://www.google.com)
 ![image](https://avatars2.githubusercontent.com/u/5961626?v=2&s=460)
+
+
+> a
+> b
+> > c
+> > d
+> > > e 
+> > > f
+
 
