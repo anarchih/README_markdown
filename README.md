@@ -14,7 +14,17 @@ README
 2. y
 3. z
 
+Nested List
+
+1. x
+    - a
+    - b
+    - c
+2. y
+3. z
+
 this is a test for `inline` format
+
 ```
 just 
 a 
