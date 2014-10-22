@@ -30,6 +30,15 @@ just
 a 
 test
 ```
+```C
+#include <stdio.h>
+int main(){
+    int a;
+    return 0;
+}
+
+```
+
 
 ```python
 import math
